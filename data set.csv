@@ -1,0 +1,6 @@
+﻿user_id,Age,gender,openness,agreeableness,favorite_genres,avg_ratings,top_actor,movie_id,genre,release_year,movie_avg_rating,match_feedback
+u001,28,male,0.72,0.90,"action, comedy",4.2,Tom Hanks,M045,drama,2021,4.5,positive
+u002,31,female,0.68,0.81,"thriller, sci-fi",3.9,Julia Roberts,M123,comedy,2018,4.7,neural
+u003,24,male,0.65,0.76,"drama, romance",4.1,Keanu Reeves,M088,sci-fi,2020,4.0,positive
+u004,29,female,0.80,0.85,"romance, comedy",4.5,Emma watson,M067,romance,2022,4.3,positive
+u005,35,female,0.60,0.70,"horror, action",3.7,BrucebWillis,M200,horror,2019,3.8,negative
